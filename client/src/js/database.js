@@ -40,7 +40,7 @@ export const getDb = async () => {
     const store = tx.objectStore('jate');
     const allContent = await store.getAll();
     console.log('All content from the database:', allContent);
-    return allContent;
+    return  allContent?.value;;
   } catch (error) {
     console.log('ERROR WITH DB')
     console.log(error)
