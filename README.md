@@ -4,7 +4,7 @@
 
 ## Description
 
-This little notepad app is packaged in a cute PWA. N.A.N.A is a renamed version of J.A.T.E . use it in browser or install it to make it more easily accessed. 
+This little notepad app is packaged in a cute PWA. N.A.N.A is a renamed version of fun notepad app that utilize IndexDB to store notes. Use it in browser or install it to make it more easily accessed. 
 
 ## Table of Content
 
