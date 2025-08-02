@@ -28,11 +28,10 @@ npm install
 
 ## Usage
 
-To use this app you can just go to the url : [https://aqueous-headland-92661.herokuapp.com/](https://aqueous-headland-92661.herokuapp.com/). Once there you can start to type away.
-no need to save the note  as it saves automacticcly when ever you take another action besides type. you can also press the install this app as a PWA by click the install button at
-the top left of the editor. 
+Once you install run the npm start from you terminal and you can start to type away. No need to save the note  as it saves automacticcly when ever you take another action besides type. 
+You can also press the install this app as a PWA by click the install button at the top left of the editor. 
 
-If you want to edit the base code to make it your own or check out the deets. clone the repository and npm install in your terminal.
+If you want to edit the base code to make it your own or check out the deets. clone the repository and npm install from your terminal.
 
 Photo of text editor:
 
